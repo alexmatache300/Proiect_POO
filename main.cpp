@@ -8,6 +8,10 @@
 #include "Program.h"
 #include "Exercitiu_picioare.h"
 #include "Exercitiu.h"
+#include "Exercitiu_umeri.h"
+#include "Exercitiu_spate.h"
+#include "Exercitiu_piept.h"
+#include "Exercitiu_brate.h"
 
 #include "exercitiu_brate.h"
 #include "Exercitiu_factory.h"
